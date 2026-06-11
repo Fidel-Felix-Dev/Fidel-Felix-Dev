@@ -18,7 +18,7 @@
 🔭 &nbsp;Currently building **Lutu'uria** (financial PWA) and **Gestión FMS** (ERP/CRM)  
 🧩 &nbsp;Scrum Master experience in collaborative academic projects using **Jira**  
 📍 &nbsp;Hermosillo, Sonora, México  
-🌐 &nbsp;Languages: Spanish (native) · English (intermediate – technical reading)
+🌐 &nbsp;Languages: Spanish (native) · English (intermediate)
 
 ---
 
